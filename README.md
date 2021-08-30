@@ -1,6 +1,16 @@
 # Opaleye Hardware
 
-The Opaleye is the maritime smart camera for maritime vision systems. Opaleye is a demonstration platform for underwater video acquisition and streaming.
+The Opaleye is the maritime smart node for maritime vision systems. Opaleye is a demonstration platform for underwater video acquisition and streaming. The intention is to form a basis for a "smart node" that can be used as part of a larger autonomous or remote-piloted robotic system.
+
+The hardware is readily available which makes modificaitons rapid and accessible.
+
+![Opaleye package](/opaleye_package.png)
+
+![Opaleye web interface](/opaleye_webinterface.png)
+
+![Opaleye front](/opaleye_front.png)
+
+![Opaleye rear](/opaleye_rear.png)
 
 ## Block Diagram
 ![Opaleye Block Diagram V1](/opaleye_block_diagram_V1.png)
@@ -29,7 +39,7 @@ The Opaleye is the maritime smart camera for maritime vision systems. Opaleye is
 | Temperature Sensor            | Blue Robotics | CELSIUS-SENSOR-R1-RP    | $60.00  | 1        | $60.00  |
 | Pressure Sensor               | Blue Robotics | BAR30-SENSOR-R1-RP      | $72.00  | 1        | $72.00  |
 | LED Indicator                 | Blue Robotics | INDICATOR-ASM-RED-R1-RP | $13.00  | 1        | $13.00  |
-|                               |               |                         |         | Subtotal | $832.39 |
+|                               |               |                         |         | Total    | $832.39 |
 ### Hardware
 | Item                                | MFG              | Part Number                              | Ea     | Qty      | Total   |
 | ----------------------------------- | ---------------- | ---------------------------------------- | ------ | -------- | ------- |
@@ -50,7 +60,7 @@ The Opaleye is the maritime smart camera for maritime vision systems. Opaleye is
 | M3 x .05 x 16mm SHCS                | McMaster Carr    | 91292A115                                | $0.07  | 10       | $0.68   |
 | M3 x .05 x 12mm 316SS SCHS          | McMaster Carr    | 92290A117                                | $0.26  | 10       | $2.59   |
 | Silica Gel Dessicant Bag            | McMaster Carr    | 2189K16                                  | $0.70  | 1        | $0.70   |
-|                                     |                  |                                          |        | Subtotal | $534.52 |
+|                                     |                  |                                          |        | Total    | $534.52 |
 
 ### Tether
 | Item                           | MFG             | Part Number                                         | Ea     | Qty      | Total   |
@@ -60,7 +70,7 @@ The Opaleye is the maritime smart camera for maritime vision systems. Opaleye is
 | Baromax Female 8 Pin Connector | Suburban Marine | BM-A-8-F                                            | $75.00 | 1        | $75.00  |
 | Baromax Inline Backshell       | Suburban Marine | BM-A-IL-B                                           | $32.00 | 1        | $32.00  |
 | Baromax Female Locking Ring    | Suburban Marine | BM-A-LR-F-A                                         | $12.00 | 1        | $12.00  |
-|                                |                 |                                                     |        | Subtotal | $119.00 |
+|                                |                 |                                                     |        | Total    | $119.00 |
 
 ### Topside Hardware
 | Item       | MFG      | Part Number | Ea     | Qty      | Total  |
