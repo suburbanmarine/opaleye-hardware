@@ -2,7 +2,7 @@
 
 The Opaleye is the maritime smart node for maritime vision systems. Opaleye is a demonstration platform for underwater video acquisition and streaming. The intention is to form a basis for a "smart node" that can be used as part of a larger autonomous or remote-piloted robotic system.
 
-The hardware is readily available which makes modificaitons rapid and accessible.
+The hardware is readily available and inexpensive.
 
 ![Opaleye package](/opaleye_package.png)
 
