@@ -73,10 +73,11 @@ The hardware is readily available and inexpensive.
 |                                |                 |                                                     |        | Total    | $119.00 |
 
 ### Topside Hardware
-| Item       | MFG      | Part Number | Ea     | Qty      | Total  |
-| ---------- | -------- | ----------- | ------ | -------- | ------ |
-| PoE Router | Mikrotik | RB960PGS    | $79.00 | 1        | $79.00 |
-|            |          |             |        | Subtotal | $79.00 |
+| Item       | MFG      | Part Number | Ea     | Qty      | Total   |
+| ---------- | -------- | ----------- | ------ | -------- | ------- |
+| PoE Router | Mikrotik | RB960PGS    | $79.00 | 1        | $79.00  |
+| PWR Supply | MeanWell | SGA60U48-P1J| $31.65 | 1        | $31.65  |
+|            |          |             |        | Subtotal | $110.65 |
 
 ## License
 
