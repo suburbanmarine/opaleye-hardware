@@ -23,6 +23,9 @@ The hardware is readily available and inexpensive.
 * Operational Temperature: 0° C to 50° C
 
 ## BOM
+
+Exploded view drawing: [SM-1610](/SM-1610_REV-A.PDF)
+
 ### Electronics
 | Item                          | MFG           | Part Number             | Ea      | Qty      | Total   |
 | ----------------------------- | ------------- | ----------------------- | ------- | -------- | ------- |
